@@ -1,2 +1,0 @@
-print("devops")
-print("VVCE")
